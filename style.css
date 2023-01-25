@@ -20,12 +20,12 @@
     background-color: rgb(34, 66, 66);
    
 }
-nav::after .heading{
+.heading{
     clear:left;
     font-size: 60px;
     font-family: cursive;
     text-align: center;
-    margin-top: 100px;
+    
 }
 p{
     text-align: center;
