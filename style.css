@@ -21,7 +21,7 @@
    
 }
 .heading{
-    clear:left;
+    clear:both;
     font-size: 60px;
     font-family: cursive;
     text-align: center;
