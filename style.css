@@ -20,6 +20,9 @@
     background-color: rgb(34, 66, 66);
    
 }
+.nav::after{
+    clear: both;
+}
 .heading{
     clear:both;
     font-size: 60px;
