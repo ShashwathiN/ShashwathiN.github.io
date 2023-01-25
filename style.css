@@ -16,10 +16,6 @@
     background-color: white;
     color: black;
 }
-.nav a:hover{
-    background-color: rgb(34, 66, 66);
-   
-}
 .nav::after{
     clear: both;
 }
