@@ -20,7 +20,7 @@
     background-color: rgb(34, 66, 66);
    
 }
-.heading{
+nav::after .heading{
     clear:left;
     font-size: 60px;
     font-family: cursive;
