@@ -5,6 +5,10 @@
     top: 0; /* Stay on top */
     width: 100%;
 }
+.nav a:hover{
+    background-color: rgb(34, 66, 66);
+   
+}
 .nav a{
     float: right;
     font-size: 15px;
