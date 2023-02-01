@@ -20,7 +20,13 @@
     background-color: rgb(34, 66, 66);
    
 }
-
+.heading{
+    clear:right;
+    font-size: 60px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 200px;
+}
 p{
     text-align: center;
     font-family: cursive;
