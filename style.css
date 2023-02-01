@@ -31,7 +31,9 @@ p{
     text-align: center;
     font-family: cursive;
 }
-
+.cards{
+align-items: center;
+}
 .card{
     float: left;
    height: 270px;
