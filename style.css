@@ -34,13 +34,16 @@ p{
 
 .card{
     float: left;
-   margin-right: 40px; 
-   margin-left: 30px; 
-   margin-bottom: 100px; 
-   margin-top: 50px;
    height: 270px;
    width: 220px;
 }
+.cards{
+align-items: center;
+margin-right: 40px; 
+    padding-right:30px;
+   margin-left: 30px; 
+   margin-bottom: 100px; 
+   margin-top: 50px;}
 .card:hover{
   box-shadow: 2px 3px black;
 }
