@@ -40,7 +40,7 @@ p{
    margin-top: 50px;
 }
 .cards{
-    width:100%
+    width:100%;
 align-items:center;}
 .card:hover{
   box-shadow: 2px 3px black;
