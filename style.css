@@ -33,6 +33,7 @@ p{
 }
 .cards{
 align-items: center;
+    background-color:white;
 }
 .card{
     float: left;
